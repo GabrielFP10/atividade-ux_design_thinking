@@ -5,4 +5,7 @@ Este repositório foi criado como requisito para a entrega de uma atividade para
 A atividade consiste na escolha de 3 sites que eu utilizo para fazer uma comparação entre interfaces.
 
 ## Sites Escolhidos
-Para essa atividade escolhi fazer uma comparação entre a interface de clientes de email conhecidos, sendo estes o Gmail, Outlook e ProtonMail
+Para essa atividade escolhi fazer uma comparação entre a interface de clientes de email conhecidos, sendo estes o Gmail, Outlook e ProtonMail.
+![Print da homepage do Gmail](https://raw.githubusercontent.com/GabrielFP10/atividade-ux_design_thinking/refs/heads/main/Screenshot%202026-09-09%20at%2023-10-41%20Inbox%20(26)%20-%20gabrinandes10%40gmail.com%20-%20Gmail.png)
+![Print da homepage do Outlook](https://github.com/GabrielFP10/atividade-ux_design_thinking/blob/main/Screenshot%202026-09-09%20at%2023-10-56%20Email%20%E2%80%93%20Gabriel%20Fernandes%20Pinheiro%20%E2%80%93%20Outlook.png)
+![Print da homepage do ProtonMail](https://raw.githubusercontent.com/GabrielFP10/atividade-ux_design_thinking/refs/heads/main/Screenshot%202026-09-09%20at%2023-10-12%20(8)%20Inbox%20gabrielfp10%40proton.me%20Proton%20Mail.png)
