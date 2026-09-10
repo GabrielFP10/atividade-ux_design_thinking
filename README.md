@@ -15,3 +15,6 @@ A principal semelhança que eu pude encontrar entre os clientes foi a posição 
 
 ## Diferenças
 Mesmo semelhantes, existem algumas diferenças entre esses clientes, a principal delas, em minha opinião é que o Outlook não expande o campo dos emails quando não há emails sendo mostrados, o que faz com que ele tenha muito mais espaço não utilizado na tela. Em relação ao Gmail, uma diferença dele para os outros é o fato dele não possuir sua barra lateral esquerda expandida por padrão, sendo expandida apenas quando o usuário passa com o cursor por cima dela.
+
+## Conclusão
+Os clientes de email mais comuns hoje em dia têm designes extremamente parecidos, diferenciando-se uns dos outros apenas por suas logomarcas e questões estéticas, como cores predominantes e pequenas escolhas de design. Isso permite com que os usuários tenham extrema facilidade no uso de qualquer um desses clientes por já possuirem familiaridade prévia.
